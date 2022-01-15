@@ -1,2 +1,2 @@
-# Employee-Tracker
-My Employee Tracker SQL
+# EmployeeTrackerSQL
+Employee Tracker SQL
